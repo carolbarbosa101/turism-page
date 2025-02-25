@@ -4,7 +4,7 @@ https://carolbarbosa101.github.io/turism-page/
 ## How to Clone the Repository
 Open the terminal and run the following command:
 ```sh
-git clone https://github.com/carolbarbosa101/recipe.git
+git clone https://github.com/carolbarbosa101/turism-page.git
 ```
 ## How to View the Project
 Open the `index.html` file in the browser to view the project.
